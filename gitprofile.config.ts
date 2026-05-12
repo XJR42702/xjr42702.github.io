@@ -78,7 +78,7 @@ const CONFIG = {
     phone: '',
     email: 'xramirez@csustan.edu',
   },
-  resume: {
+  Curriculum Vitae: {
     fileUrl:
       'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
@@ -100,25 +100,25 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'BEAM Circular',
+      position: 'Wet Lab Graduate Researcher',
+      from: 'February 2026',
       to: 'Present',
       companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
+      company: 'CSU Stanislaus',
+      position: 'Graduate Studies Thesis Evaluator',
+      from: 'December 2025',
+      to: 'Present',
       companyLink: 'https://example.com',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
+      name: 'Adult and Pediatric First Aid/CPR/AED',
+      body: 'American Red Cross',
+      year: 'September 2025',
       link: 'https://example.com',
     },
   ],
@@ -138,19 +138,24 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Genomic Insights into Bacterial Communities of Coenocytic Algae Using Metagenome
+Assembled Genomes',
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
+      journalName: 'Frontiers in Microbiology ',
+      authors: 'Gerardo Laureano, Xochitl Ramirez, Ashley Scoles, Christina Johne, Coralys M Colon
+Saez, Yerlianys M Hernandez Ortiz, Jennifer Soleyman, Ramon E. Rivera Vicens, and
+Alok Arun',
       link: 'https://example.com',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
     },
     {
-      title: 'Publication Title',
+      title: 'Draft Genome Sequence of Sphingobacterium multivorum DSM 11691, an Environmen-
+tal Pathogen with Potential Antibiotic Resistance',
       conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
+      journalName: 'Microbiology Resouce Announcements',
+      authors: 'Cassandra Haakma, Xochitl Ramirez, Sean McFarlan, Ben Torres, Andres Aguilar, Tricia
+Van Laar',
       link: 'https://example.com',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
